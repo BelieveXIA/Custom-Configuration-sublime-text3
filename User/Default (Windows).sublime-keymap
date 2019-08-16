@@ -1,0 +1,4 @@
+[
+	{ "keys": ["shift+tab"], "command": "reindent" , "args": {"single_line":false} },//格式文档化，整理代码
+	{ "keys": ["alt+space"], "command": "auto_complete" },//调出补全代码
+]

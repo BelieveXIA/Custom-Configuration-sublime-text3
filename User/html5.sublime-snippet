@@ -1,0 +1,22 @@
+<snippet>
+	<content><![CDATA[
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>${1:Document}</title>
+	<link rel="stylesheet" type="text/css" href="${2}.css"/>
+	<script type="text/javascript" src="${3}.js"></script>
+</head>
+<body>
+	
+	${0}
+
+</body>
+</html>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>html5</tabTrigger><!-- “html5+Tab”快捷键，生成以上代码片段 -->
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+</snippet>

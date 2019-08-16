@@ -1,0 +1,5 @@
+{
+
+"cmd": ["C:/Users/ZX50/AppData/Local/Google/Chrome/Application/chrome","$file"]
+//自定义"ctrl+B",快捷键，在谷歌浏览器打开html文件
+}

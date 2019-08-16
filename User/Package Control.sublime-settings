@@ -1,0 +1,19 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AutoFileName",
+		"ColorPicker",
+		"DocBlockr",
+		"Emmet",
+		"JavaScript & NodeJS Snippets",
+		"jQuery",
+		"Package Control",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"Theme - Spacegray"
+	]
+}
